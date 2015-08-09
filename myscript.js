@@ -5,9 +5,9 @@ $(function() {
 	var topoffset = 50; // variable for menu height
 	var slideqty = $('#featured .item').length;
 	var wheight = $(window).height(); // get height of the window
-	var greekLetters = '<i class="fa-alpha"></i>';
-	greekLetters += '<i class="fa-psi"></i>';
-	greekLetters += '<i class="fa-lambda"></i>';
+	var greekLetters = '<span class="greeks"><i class="fa fa-alpha"></i>';
+	greekLetters += '<i class="fa fa-psi"></i>';
+	greekLetters += '<i class="fa fa-lambda"></i></span>';
 
 	$('.fullheight').css('height', wheight); // set to window target
 
