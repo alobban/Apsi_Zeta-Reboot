@@ -258,11 +258,11 @@ footer .navbar-nav>li a {
 	padding-top: 0;
 	padding-bottom: 0;
 	/*text-decoration: underline;*/
-	color: #FFFFFF !important;
+	color: #EEC856 !important;
 }
 
 footer .navbar-nav>li a:hover {
-	color: #EEC856 !important;
+	color: #FFFFFF !important;
 }
 
 
