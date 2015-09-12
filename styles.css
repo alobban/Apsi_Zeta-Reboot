@@ -194,6 +194,10 @@ header .inbody .navbar-brand span.fa-stack {
 
 /****** page Members ******/
 
+#members h2 {
+	display: none;
+}
+
 .member {
 	margin: 20px 0;
 	text-align: center;
